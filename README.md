@@ -1,3 +1,5 @@
+# Этот плагин в данный момент находится в разработке!!!
+
 Взято за основу плагин https://github.com/WPManageNinja/paystack-for-fluent-cart/tree/master
 
 Прототип пдагина Robokassa https://github.com/robokassa/cms-wordpress/tree/master
