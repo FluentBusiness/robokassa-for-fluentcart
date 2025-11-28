@@ -29,7 +29,7 @@
 
 3. Перейдите в FluentCart > Settings > Payment Methods
 
-4. Включите и настройте Robokassa с вашими API ключами из [Robokassa Dashboard](https://dashboard.robokassa.com/#/settings/developer)
+4. Включите и настройте Robokassa с вашими API ключами в разделе "Мои магазины" вашего ЛК, открыв нужный магазин, в закладке "Технические настройки"
 
 ## Требования
 
