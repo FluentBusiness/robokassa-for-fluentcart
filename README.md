@@ -145,7 +145,7 @@ robokassa-for-fluent-cart/
 
 1. Включите тестовый режим в настройках
 2. Используйте тестовые API ключи из Robokassa
-3. Используйте [Robokassa test cards](https://robokassa.com/docs/payments/test-payments/)
+3. Используйте (в процессе разработки)
 
 ### Тестовые карты
 
