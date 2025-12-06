@@ -15,7 +15,7 @@
 - ✅ Обработка возвратов
 - ✅ Интеграция webhook
 - ✅ Тестовый и рабочий режимы
-- ✅ Поддержка нескольких валют (NGN, GHS, ZAR, USD)
+- ✅ Поддержка валюты (RUB)
 
 ## Установка
 
@@ -29,7 +29,7 @@
 
 3. Перейдите в FluentCart > Settings > Payment Methods
 
-4. Включите и настройте Robokassa с вашими API ключами из [Robokassa Dashboard](https://dashboard.robokassa.com/#/settings/developer)
+4. Включите и настройте Robokassa с вашими API ключами в разделе "Мои магазины" вашего ЛК, открыв нужный магазин, в закладке "Технические настройки"
 
 ## Требования
 
@@ -40,12 +40,10 @@
 
 ## Настройка
 
-1. Получите ваши API ключи из [Robokassa Dashboard](https://dashboard.robokassa.com/#/settings/developer)
+1. Получите ваши API ключи в разделе "Мои магазины" вашего ЛК, открыв нужный магазин, в закладке "Технические настройки"
 2. Добавьте ваши тестовые/рабочие публичные и секретные ключи в настройки FluentCart Robokassa
-3. Настройте webhook URL в Robokassa Dashboard:
-   ```
-   https://yourdomain.com/?fluent-cart=fct_payment_listener_ipn&method=robokassa  
-   ```
+3. Настройте webhook URL в ключи в разделе "Мои магазины" вашего ЛК, открыв нужный магазин, в закладке "Технические настройки"
+
 
 ## Для разработчиков
 
@@ -145,7 +143,7 @@ robokassa-for-fluent-cart/
 
 1. Включите тестовый режим в настройках
 2. Используйте тестовые API ключи из Robokassa
-3. Используйте [Robokassa test cards](https://robokassa.com/docs/payments/test-payments/)
+3. Используйте (в процессе разработки)
 
 ### Тестовые карты
 
