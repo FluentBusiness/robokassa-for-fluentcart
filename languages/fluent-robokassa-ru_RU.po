@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "Robokassa for FluentCart"
+msgstr "Робокасса для FluentCart"
+
+msgid "requires FluentCart to be installed and activated."
+msgstr "требуется установка и активация FluentCart."
+
+msgid "requires FluentCart version 1.2.5 or higher."
+msgstr "требуется FluentCart версии 1.2.5 или выше."
+
+msgid "Plugin Activation Error"
+msgstr "Ошибка активации плагина"
+
+msgid "Robokassa for FluentCart requires FluentCart to be installed and activated."
+msgstr "Robokassa для FluentCart требует установки и активации FluentCart."
+
+msgid "Basic settings"
+msgstr "Основные"
+
+msgid "Order #%d"
+msgstr "Номер заказа #%d"
+
+msgid "<p>API keys and store connection parameters</p><h3>Help and installation instructions</h3><p>1. Enter your API details in the Basic Settings section.</p><p>2. In your Robokassa personal account, enter the following URLs for notifications:</p>"
+msgstr "<p>API-ключи и параметры подключение магазина</p><h3>Помощь и инструкция по установке</h3><p>1. Введите данные API в разделе «Основные настройки».</p><p>2. В личном кабинете Robokassa укажите следующие URL-адреса для уведомлений:</p>"
+
+msgid "<p>Data sending method - POST</p><p>Hash calculation algorithm - MD5</p><p>After that, fill in the store login and passwords in the fields below</p>"
+msgstr "<p>Метод отсылки данных - POST</p><p>Алгоритм расчёта хеша - MD5</p><p>После этого заполните логин и пароли магазина в полях ниже</p>"
+
+msgid "<h3>Basic Settings</h3>"
+msgstr "<h3>Основные настройки</h3>"
+
+msgid "With iframe enabled, there are fewer payment methods than on a regular payment page—only cards, Apple and Samsung Pay, and Qiwi. Incurlabel works, but is limited."
+msgstr "При включённом iframe, способов оплаты меньше, чем в обычной платежной странице - только карты, Apple и Samsung pay, Qiwi. incurlabel работает, но ограничено."
+
+msgid "<h3>Additional payment methods</h3><p>Select Robokassa partner solutions to display to customers when placing an order. Connected upon request in your Robokassa personal account.</p>"
+msgstr "<h3>Дополнительные способы оплаты</h3><p>Выберите партнёрские решения Robokassa, которые нужно показывать клиентам при оформлении заказа. Подключаются по запросу в личном кабинете Robokassa.</p>"
+
+msgid "Installment or credit options"
+msgstr "Рассрочка или кредит"
+
+msgid "Robokassa X Share"
+msgstr "Robokassa Х Подели"
+
+msgid "Robokassa X Mokka"
+msgstr "Robokassa X Mokka"
+
+msgid "Robokassa X Yandex Split"
+msgstr "Robokassa X Яндекс Сплит"
+
+msgid "<h3>Settings for FluentCart Subscriptions</h3>"
+msgstr "<h3>Настройки для реккурентных платежей (подписок)</h3>"
+
+msgid "<h3>Fiscalization</h3>"
+msgstr "<h3>Фискализация</h3>"
+
+msgid "<h3>Setting up order statuses</h3>"
+msgstr "<h3>Настройка статусов заказа</h3>"
+
+msgid "<h3>Other Settings</h3>"
+msgstr "<h3>Прочие настройки</h3>"
+
+msgid "Agency Products"
+msgstr "Агентские товары"
+
+msgid "Checking"
+msgstr "Проверочка"
+
+msgid "<p>To transfer data to the receipt, use the rented <a href=\"https://robokassa.com/online-check/robokassa-online/\" target=\"_blank\" rel=\"noopener noreferrer\">Robokassa Online</a>. With the \"RoboCheck\" solution, the agent attribute will not be transferred to the receipt.</p><p>Once enabled, the \"Robokassa Agent Product\" section will appear on the product card. Fill in the agent type, name, TIN, and phone numbers to ensure the data is included on the receipt.</p>"
+msgstr "<p>Для передачи данных в чек используйте арендованную <a href=\"https://robokassa.com/online-check/robokassa-online/\" target=\"_blank\" rel=\"noopener noreferrer\">Робокасса Онлайн</a>. С решением «Робочеки» агентский признак не будет передан в чек.</p><p>После включения в карточке товара появится блок «Агентский товар Robokassa». Заполните тип агента, наименование, ИНН и телефоны, чтобы данные попали в чек.</p>"
+
+msgid "<p>This <a href=\"https://docs.robokassa.ru/holding/\" target=\"_blank\" rel=\"noopener noreferrer\">service</a> is available by prior arrangement only.</p><p>Functionality is only available when using bank cards.</p><p><a href=\"https://docs.robokassa.ru/media/guides/hold_woocommerce.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Setup Instructions</a></p>"
+msgstr "<p>Данная <a href=\"https://docs.robokassa.ru/holding/\" target=\"_blank\" rel=\"noopener noreferrer\">услуга</a> доступна только по предварительному согласованию.</p><p>Функционал доступен только при использовании банковских карт.</p><p><a href=\"https://docs.robokassa.ru/media/guides/hold_woocommerce.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Инструкция по настройке</a></p>"
+
+msgid "<h3>Test connection settings</h3>"
+msgstr "<h3>Настройки тестового соединения</h3>"
+
+msgid "Payment via Robokassa"
+msgstr "Оплата через Робокассу"
+
+msgid "Checkout Page Header"
+msgstr "Заголовок на странице оформления заказа"
+
+msgid "Description on the checkout page"
+msgstr "Описание на странице оформления заказа"
+
+msgid "Country of the store"
+msgstr "Страна магазина"
+
+msgid "Store ID"
+msgstr "Идентификатор магазина"
+
+msgid "Store password #1"
+msgstr "Пароль магазина #1"
+
+msgid "Store password #2"
+msgstr "Пароль магазина #2"
+
+msgid "Test store password #1"
+msgstr "Тестовый пароль магазина #1"
+
+msgid "Test store password #2"
+msgstr "Тестовый пароль магазина #2"
+
+msgid "Test mode"
+msgstr "Тестовый режим"
+
+msgid "Test"
+msgstr "Тестовое"
+
+msgid "Robokassa interface language"
+msgstr "Язык интерфейса робокассы"
+
+msgid "Enable iframe"
+msgstr "Включить iframe"
+
+msgid "Display payment method"
+msgstr "Отображать способ оплаты"
+
+msgid "Agreement text with the rules for subscription write-offs"
+msgstr "Текст согласия с правилами на списания по подписке"
+
+msgid "Link to consent to the processing of personal data"
+msgstr "Ссылка на согласие на обработку персональных данных"
+
+msgid "Link to offer"
+msgstr "Ссылка на оферту"
+
+msgid "Taxation system"
+msgstr "Система налогообложения"
+
+msgid "Calculation method indicator"
+msgstr "Признак способа расчёта"
+
+msgid "Calculation subject indicator for goods/services"
+msgstr "Признак предмета расчёта для товаров/услуг"
+
+msgid "Invoice item indicator for goods/services (second receipt)"
+msgstr "Признак предмета расчёта для товаров/услуг (второй чек)"
+
+msgid "Item of payment for delivery"
+msgstr "Признак предмета расчёта для доставки"
+
+msgid "Source of tax rate"
+msgstr "Источник налоговой ставки"
+
+msgid "Tax rate"
+msgstr "Налоговая ставка"
+
+msgid "Order status after payment"
+msgstr "Статус заказа после оплаты"
+
+msgid "Status for automatic issuance of the second check"
+msgstr "Статус для автоматического выбивания второго чека"
+
+msgid "Do you sell agency products?"
+msgstr "Продаете ли вы агентский товар?"
+
+msgid "Deferred payments"
+msgstr "Отложенные платежи"
+
+msgid "Payment success page"
+msgstr "Страница успеха платежа"
+
+msgid "Refusal page"
+msgstr "Страница отказа"
+
+msgid "When selecting the option with a product card, the rate from the plugin settings will be used as the default value."
+msgstr "При выборе варианта с карточкой товара ставка из настроек плагина будет использоваться как значение по умолчанию."
+
+msgid "This status will be assigned to an order after successful payment via RoboKassa. It only applies to regular payments (not deferred payments)."
+msgstr "Этот статус будет присвоен заказу после успешной оплаты через Робокассу. Применяется только для обычных платежей (не отложенных)."
+
+msgid "Select the status at which a second receipt will be automatically generated (if this status is applied to the order)."
+msgstr "Выберите статус, при котором будет автоматически выбиваться второй чек (если этот статус применен к заказу).."
+
+msgid "The buyer will see this page when they pay for the order."
+msgstr "Эту страницу увидит покупатель, когда оплатит заказ."
+
+msgid "This is the page the buyer will see if something goes wrong: for example, if they dont have enough money on their card."
+msgstr "Эту страницу увидит покупатель, если что-то пойдет не так: например, если ему не хватит денег на карте."
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Enable"
+msgstr "Включено"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "FluentCart \"Order Receipt\" page"
+msgstr "Страница \"Квитанция\" от FluentCart"
+
+msgid "FluentCart \"Checkout\" page"
+msgstr "Страница оформления заказа от FluentCart"
+
+msgid "FluentCart \"Payment\" page"
+msgstr "Страница оплаты заказа от FluentCart"
+
+msgid "If the parameter is not selected, the value from the “Settlement subject indicator for goods/services” field is used."
+msgstr "Если параметр не выбран, используется значение из поля «Признак предмета расчёта для товаров/услуг»."
+
+msgid "Use rate from plugin settings"
+msgstr "Использовать ставку из настроек плагина"
+
+msgid "Use rate from product card (if available)"
+msgstr "Использовать ставку из карточки товара (при наличии)"
+
+msgid "Do not transmit"
+msgstr "Не передавать"
+
+msgid "Without VAT"
+msgstr "Без НДС"
+
+msgid "VAT at 0% rate"
+msgstr "НДС по ставке 0%"
+
+msgid "VAT at 10% rate"
+msgstr "НДС чека по ставке 10%"
+
+msgid "VAT at 20% rate"
+msgstr "НДС чека по ставке 20%"
+
+msgid "VAT at calculated 10/110 rate"
+msgstr "НДС чека по расчётной ставке 10/110"
+
+msgid "VAT at calculated 20/120 rate"
+msgstr "НДС чека по расчётной ставке 20/120"
+
+msgid "VAT at 5% rate"
+msgstr "НДС по ставке 5%"
+
+msgid "VAT at 7% rate"
+msgstr "НДС по ставке 7%"
+
+msgid "VAT at calculated 5/105 rate"
+msgstr "НДС чека по расчётной ставке 5/105"
+
+msgid "VAT at calculated 7/107 rate"
+msgstr "НДС чека по расчётной ставке 7/107"
+
+msgid "VAT at 8% rate (Kazakhstan)"
+msgstr "НДС чека по ставке 8% (Казахстан)"
+
+msgid "VAT at 12% rate (Kazakhstan)"
+msgstr "НДС чека по ставке 12% (Казахстан)"
+
+msgid "General Tax System"
+msgstr "Общая СН"
+
+msgid "Simplified Tax System (income)"
+msgstr "Упрощенная СН (доходы)"
+
+msgid "Simplified Tax System (income minus expenses)"
+msgstr "Упрощенная СН (доходы минус расходы)"
+
+msgid "Single Tax on Imputed Income"
+msgstr "Единый налог на вмененный доход"
+
+msgid "Unified Agricultural Tax"
+msgstr "Единый сельскохозяйственный налог"
+
+msgid "Patent Tax System"
+msgstr "Патентная СН"
+
+msgid "Russia"
+msgstr "Россия"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Detect automatically by IP"
+msgstr "Определить автоматически по IP"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Full prepayment 100%"
+msgstr "Предоплата 100%"
+
+msgid "Partial prepayment"
+msgstr "Частичная предоплата"
+
+msgid "Advance"
+msgstr "Аванс"
+
+msgid "Full payment"
+msgstr "Полный расчет"
+
+msgid "Partial payment and credit"
+msgstr "Частичный расчет и кредит"
+
+msgid "Credit transfer"
+msgstr "Передача в кредит"
+
+msgid "Credit payment"
+msgstr "Оплата кредита"
+
+msgid "Commodity"
+msgstr "Товар"
+
+msgid "Excise goods"
+msgstr "Подакцизный товар"
+
+msgid "Job"
+msgstr "Работа"
+
+msgid "Service"
+msgstr "Услуга"
+
+msgid "Gambling bet"
+msgstr "Ставка азартной игры"
+
+msgid "Gambling prize"
+msgstr "Выигрыш азартной игры"
+
+msgid "Lottery ticket"
+msgstr "Лотерейный билет"
+
+msgid "Lottery prize"
+msgstr "Выигрыш лотереи"
+
+msgid "Provision of intellectual activity results"
+msgstr "Предоставление результатов интеллектуальной деятельности"
+
+msgid "Payment"
+msgstr "Платеж"
+
+msgid "Agent commission"
+msgstr "Агентское вознаграждение"
+
+msgid "Composite payment object"
+msgstr "Составной предмет расчета"
+
+msgid "Another payment object"
+msgstr "Иной предмет расчета"
+
+msgid "Widget and badge"
+msgstr "Виджет и бейдж"
+
+msgid "<p>Appearance and behavior scenarios of storefront elements</p><p>Configure the appearance and display scenarios of Robokassa branded components on the store front.</p><h3>Robokassa Badge & Widget settings</h3>"
+msgstr "<p>Внешний вид и сценарии работы витринных элементов</p><p>Настройте внешний вид и сценарии отображения фирменных компонентов Robokassa на витрине магазина.</p><h3>Настройка Robokassa Badge & Widget</h3>"
+
+msgid "Enable widget or badge"
+msgstr "Включить виджет или бейдж"
+
+msgid "After activation the selected Robokassa component will be shown on the product page."
+msgstr "После активации на странице товара будет отображаться выбранный компонент Robokassa."
+
+msgid "Default component"
+msgstr "Компонент по умолчанию"
+
+msgid "Widget"
+msgstr "Виджет"
+
+msgid "Badge"
+msgstr "Бейдж"
+
+msgid "Select the component that will be displayed on the product page."
+msgstr "Выберите компонент, который будет отображаться на странице товара."
+
+msgid "Color theme"
+msgstr "Цветовая тема"
+
+msgid "Light theme"
+msgstr "Светлая тема"
+
+msgid "Dark theme"
+msgstr "Тёмная тема"
+
+msgid "<h3>Advanced component settings</h3>"
+msgstr "<h3>Продвинутые настройки компонентов</h3>"
+
+msgid "Component size"
+msgstr "Размер компонента"
+
+msgid "s"
+msgstr "s"
+
+msgid "m"
+msgstr "m"
+
+msgid "Sets the size attribute. Available options are «s» and «m»."
+msgstr "Задаёт значение атрибута size. Доступны варианты «s» и «m»."
+
+msgid "Show Robokassa logo"
+msgstr "Показывать логотип Robokassa"
+
+msgid "Controls the showLogo attribute. A value of «false» hides the logo."
+msgstr "Управляет атрибутом showLogo. Значение «false» скрывает логотип."
+
+msgid "Offer type"
+msgstr "Тип предложения"
+
+msgid "Display both"
+msgstr "Отображать оба"
+
+msgid "bnpl"
+msgstr "bnpl"
+
+msgid "credit"
+msgstr "credit"
+
+msgid "The type attribute value for the Widget component. By default the attribute is not passed, which enables both offer types."
+msgstr "Значение атрибута type для компонента «Виджет». По умолчанию атрибут не передаётся, что включает оба типа предложений."
+
+msgid "Border radius"
+msgstr "Скругление углов"
+
+msgid "For example: 12px"
+msgstr "Например: 12px"
+
+msgid "The borderRadius attribute for the Widget component."
+msgstr "Атрибут borderRadius для компонента Виджет."
+
+msgid "Second description line"
+msgstr "Вторая строка описания"
+
+msgid "Corresponds to hasSecondLine attribute (Only for widget & size: m)."
+msgstr "Соответствует атрибуту hasSecondLine (Только для widget & size: m)."
+
+msgid "Description position"
+msgstr "Позиция описания"
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "The descriptionPosition attribute value for the widget only."
+msgstr "Значение атрибута descriptionPosition только для виджета."
+
+msgid "Notifications"
+msgstr "Оповещение"
+
+msgid "<p>SMS scenarios and templates for customers</p><h3>SMS settings</h3><p>Manage texts and sending conditions for SMS messages to your store customers.</p><p>The message body supports the following placeholders:</p><p>{address} — delivery address.<br/>{fio} — customer full name<br/>{order_number} — order number."
+msgstr "<p>Сценарий и шаблоны SMS для клиентов</p><h3>Настройки SMS</h3><p>Управляйте текстами и условиями отправки SMS-сообщений для покупателей вашего магазина.</p><p>В теле сообщения доступны следующие метки:</p><p>{address} — адрес доставки заказа.<br/>{fio} — ФИО покупателя<br/>{order_number} — номер заказа."
+
+msgid "SMS transliteration"
+msgstr "Транслитерация SMS сообщений"
+
+msgid "Enable/Disable"
+msgstr "Включить/Выключить"
+
+msgid "SMS payment transliteration"
+msgstr "Транслитерация SMS сообщений"
+
+msgid "Notification of successful payment"
+msgstr "Уведомление об успешной оплате"
+
+msgid "Notification text for successful payment"
+msgstr "Текст сообщения при успешной оплате"
+
+msgid "Notification of order completion"
+msgstr "Уведомление о завершении заказа"
+
+msgid "Notification text for order completion"
+msgstr "Текст сообщения при завершении заказа"
+
+msgid "Registration"
+msgstr "Регистрация"
+
+msgid "Register with Robokassa"
+msgstr "Регистрация в Robokassa"
+
+msgid "Submit an application to connect Robokassa directly from the admin panel and start accepting payments without extra steps."
+msgstr "Подайте заявку на подключение Robokassa прямо из панели управления и начните принимать платежи без лишних действий."

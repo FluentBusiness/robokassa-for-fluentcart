@@ -1,0 +1,96 @@
+.robokassa-submethods {
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: #f9f9f9;
+    margin-bottom: 20px;
+}
+
+.robokassa-submethods__title {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #565865;
+}
+
+.robokassa-submethods__description {
+    text-align: center;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #565865;
+}
+
+.robokassa-submethods__list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 10px;
+}
+
+.robokassa-submethods__list label {
+    margin: 0;
+    padding: 0;
+}
+
+.robokassa-submethods__list button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    min-height: 34px;
+    font-size: 14px;
+    padding: 0 10px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    font-weight: 500;
+    font-size: 12px;
+    color: #333;
+    cursor: pointer;
+    box-sizing: border-box;
+    text-transform: none;
+}
+
+.robokassa-submethods__list button span {
+    white-space: pre-line;
+}
+
+.robokassa-submethods__list button.active,
+.robokassa-submethods__list button:hover,
+.robokassa-submethods__list button:focus {
+    background: #ddd;
+    border-color: #bbb;
+    outline: none;
+}
+
+.fct_checkout_marketing_opt_in {
+    margin-bottom: 20px;
+}
+
+.fct_checkout_marketing_opt_in label {
+    display: inline-flex;
+    align-items: flex-start;
+}
+
+.fct_checkout_marketing_opt_in label span {
+    flex: 1;
+    line-height: 1.4;
+}
+
+.fct_checkout_marketing_opt_in label span a {
+    font-size: 100%;
+}
+
+@media screen and (max-width: 767px) {
+    .robokassa-submethods__list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

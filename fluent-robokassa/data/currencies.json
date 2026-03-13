@@ -1,0 +1,40 @@
+{
+    "BANKCARD": {
+        "Alias": "BANKCARD"
+    },
+    "BANKCARDHALVA": {
+        "Alias": "BANKCARDHALVA"
+    },
+    "CARD120DAYS": {
+        "Alias": "CARD120DAYS"
+    },
+    "OTP": {
+        "Alias": "OTP",
+        "MinValue": "2000",
+        "MaxValue": "199999"
+    },
+    "SBERPAY": {
+        "Alias": "SBERPAY",
+        "MinValue": "1",
+        "MaxValue": "20000000"
+    },
+    "SBP": {
+        "Alias": "SBP",
+        "MaxValue": "1000000"
+    },
+    "TINKOFFPAY": {
+        "Alias": "TINKOFFPAY",
+        "MinValue": "1",
+        "MaxValue": "600000"
+    },
+    "YANDEXPAY": {
+        "Alias": "YANDEXPAY",
+        "MinValue": "10",
+        "MaxValue": "1000000"
+    },
+    "YANDEXPAYSPLIT": {
+        "Alias": "YANDEXPAYSPLIT",
+        "MinValue": "10",
+        "MaxValue": "149999.99"
+    }
+}
