@@ -238,6 +238,8 @@ robokassa-for-fluentcart/
 - **Ошибка 40:** Повторная оплата счёта с выданным ID. Заказ уже был оплачен или ID дублируется.
 - При обращениях в службу заботы обязательно называйте свой MerchantLogin и номер заказа в системе.
 
+[Типовые ошибки интерфейса оплаты Robokassa](https://docs.robokassa.ru/ru/pay-interface#payment-interface-errors)
+
 ---
 
 ## 🤝 Поддержка и Лицензия
